@@ -8,5 +8,5 @@ Data modeling can be a useful tool for HR departments. With huge data sets inclu
 The data sets correspond to historical HR data from a fictional company and can be found as `.csv` files in the `data` folder of this respository. These files were provided by the Tecnológico de Monterrey Data Analytics Bootcamp for the February - August 2020 term.
 
 # Code explanation
-To run this code, you will have to create a new data base using PGAdmin. Use the provided queries to create the corresponding tables and populate them with the `.csv` files.
+To run this code, you will have to create a new data base using PGAdmin. Use the provided queries to create the corresponding tables and populate them with the `.csv` files. To run the Jupyter Notebook additional analysis, generate the corresponding connection string using your user and password to create a connection to your local PostgreSQL DBMS.
 
